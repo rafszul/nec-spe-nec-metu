@@ -14,7 +14,7 @@ this is a project about an Italian painter Michelangelo Merisi better known as C
 
 since I like having something in place before diving deep in technologies, assets etc i patched up something to statr with, something that inspires me, allows to agther materials and something dramatic enough to maybe draw some attention from fellow coders and creatives.
 
-at this stage I often use already available open source compositions by others and JavaScript used here was initialy written by Gerard Ferrandez ([ge1doot](http://codepen.io/ge1doot/)) whose work was always an inspiration for me. the source code to his original demo together with the MIT licence could be found here: [apparently transparent](http://codepen.io/ge1doot/pen/GgOYoy).
+at this stage I often use already available open source compositions by others and JavaScript used here was initialy written by Gerard Ferrandez ([ge1doot](http://codepen.io/ge1doot/)) whose work was always an inspiration for me. his original demo could be viewed here: [apparently transparent](http://codepen.io/ge1doot/pen/GgOYoy) appart from that the [source code together with the MIT licence could be accessed here](https://gist.github.com/rafszul/80e9bc30dc6a5beca0ac5839d37a2745).
 
 the painting are all by already mentioned, Michelangelo Merisi da Caravaggio and this repo is a start of a journey to recreate in JavaScript the places visited by this extraordinary artist during his lifetime... all in webGL... with vr gear on...
 
