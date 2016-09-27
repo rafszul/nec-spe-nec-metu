@@ -1,6 +1,6 @@
 # WITHOUT HOPE, WITHOUT FEAR
 
-During a visit to a church in Sicily a priest offered a painter Caravaggio holy water. Caravaggio asked the old priest what it was for. "It will cancel your venial sins my son." replied the priest. "Then it's no use" replied Caravaggio, "because my sins are all mortal."
+During a visit to a church in Sicily a priest offered a painter Caravaggio holy water. Caravaggio asked the old priest what was it for. "It will cancel your venial sins my son." replied the priest. "Then it's no use" replied Caravaggio, "because my sins are all mortal."
 
 ---
 
