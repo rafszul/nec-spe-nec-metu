@@ -12,7 +12,7 @@ this project is about an Italian painter Michelangelo Merisi better known as Car
 
 it is a search for architectual glimpses of the reality in which he lived and which he depicted in unprecedented detail on his paintings.
 
-http://transparently-apparent.netlify.com/
+[*nec spe nec metu*](http://transparently-apparent.netlify.com/)
 
 the painting are all by already mentioned, Michelangelo Merisi da Caravaggio and this repo is only a start of a journey to recreate in JavaScript the places visited by this extraordinary artist during his lifetime... 
 
